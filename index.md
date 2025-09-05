@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages 
 
+##Pranay Krishna's First CS193 Homework
+- I really appreciate the time that our lecturers are putting into this class to teach us even though they are students themselves.
+- I found the terminal very interesting.
+- I am glad I finally created a GitHub account.
+- I have some experience with Linux, but I still have some doubts about it which I know will get clarified in this class.
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
